@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="__gLCgPNvEeOBUOWCMS3zQg" name="yathipathi anesthesia">
+  <eAnnotations xmi:id="__gLCgfNvEeOBUOWCMS3zQg" source="uml2.diagrams">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_cd2SwPNwEeOBUOWCMS3zQg" type="Usecase" name="1 toplevel anesthesia use cases">
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_6fb3EPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fb3EfNwEeOBUOWCMS3zQg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6fb3EvNwEeOBUOWCMS3zQg" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fb3E_NwEeOBUOWCMS3zQg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fb3FPNwEeOBUOWCMS3zQg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fb3FfNwEeOBUOWCMS3zQg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_6fb3FvNwEeOBUOWCMS3zQg" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_9NoZUPEYEeOE4bpqZzhqzg?Auto%20Analysis%20Model/EXHALATION%20%2F%20INHALATION?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6fb3F_NwEeOBUOWCMS3zQg" x="10159" y="3809"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_6fdFMPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fdsQPNwEeOBUOWCMS3zQg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6fdsQfNwEeOBUOWCMS3zQg" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fdsQvNwEeOBUOWCMS3zQg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fdsQ_NwEeOBUOWCMS3zQg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fdsRPNwEeOBUOWCMS3zQg" type="Parent"/>
+        <element xmi:type="uml:Actor" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_W0zjoPEgEeOE4bpqZzhqzg?Auto%20Analysis%20Model/patient?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6fdsRfNwEeOBUOWCMS3zQg" x="3412" y="1295"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_6fe6YPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fe6YfNwEeOBUOWCMS3zQg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6ffhcPNwEeOBUOWCMS3zQg" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6ffhcfNwEeOBUOWCMS3zQg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6ffhcvNwEeOBUOWCMS3zQg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6ffhc_NwEeOBUOWCMS3zQg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_6ffhdPNwEeOBUOWCMS3zQg" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_6yD1IPEgEeOE4bpqZzhqzg?Auto%20Analysis%20Model/SET%20O2%20%2F%20CO2%20CONCENTRATIONS?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6ffhdfNwEeOBUOWCMS3zQg" x="10027" y="1031"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_6fgIgPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fgIgfNwEeOBUOWCMS3zQg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6fgIgvNwEeOBUOWCMS3zQg" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fgIg_NwEeOBUOWCMS3zQg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fgIhPNwEeOBUOWCMS3zQg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fgIhfNwEeOBUOWCMS3zQg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_6fgIhvNwEeOBUOWCMS3zQg" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_C5AHEPEhEeOE4bpqZzhqzg?Auto%20Analysis%20Model/MONITERING%20PATIENTS%20CONDITION?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6fgIh_NwEeOBUOWCMS3zQg" x="9762" y="6587"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_6fhWoPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fhWofNwEeOBUOWCMS3zQg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6fhWovNwEeOBUOWCMS3zQg" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fhWo_NwEeOBUOWCMS3zQg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fhWpPNwEeOBUOWCMS3zQg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fhWpfNwEeOBUOWCMS3zQg" type="Parent"/>
+        <element xmi:type="uml:Actor" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_Nt4UAPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/sensor?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6fhWpvNwEeOBUOWCMS3zQg" x="21219" y="6905"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_6fh9sPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fh9sfNwEeOBUOWCMS3zQg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6fh9svNwEeOBUOWCMS3zQg" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fh9s_NwEeOBUOWCMS3zQg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fh9tPNwEeOBUOWCMS3zQg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fh9tfNwEeOBUOWCMS3zQg" type="Parent"/>
+        <element xmi:type="uml:Actor" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_eqIu4PElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/SOFTWARE?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6fh9tvNwEeOBUOWCMS3zQg" x="2169" y="6270"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_6fjL0PNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fjL0fNwEeOBUOWCMS3zQg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6fjL0vNwEeOBUOWCMS3zQg" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fjL0_NwEeOBUOWCMS3zQg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fjL1PNwEeOBUOWCMS3zQg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fjL1fNwEeOBUOWCMS3zQg" type="Parent"/>
+        <element xmi:type="uml:Actor" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#__0Kq0PElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/DATA%20STORAGE?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6fjL1vNwEeOBUOWCMS3zQg" x="23997" y="4074"/>
+      </children>
+      <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6flBAPNwEeOBUOWCMS3zQg" source="_6fb3EPNwEeOBUOWCMS3zQg" target="_6fdFMPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6flBAfNwEeOBUOWCMS3zQg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6flBAvNwEeOBUOWCMS3zQg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6flBA_NwEeOBUOWCMS3zQg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6flBBPNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6flBBfNwEeOBUOWCMS3zQg" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6flBBvNwEeOBUOWCMS3zQg" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBXpkPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6flBB_NwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6flBCPNwEeOBUOWCMS3zQg" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6flBCfNwEeOBUOWCMS3zQg" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBXpkPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6flBCvNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6flBC_NwEeOBUOWCMS3zQg" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6flBDPNwEeOBUOWCMS3zQg" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBSKAPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/patient?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6flBDfNwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6flBDvNwEeOBUOWCMS3zQg" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6flBD_NwEeOBUOWCMS3zQg" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBSKAPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/patient?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6flBEPNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6flBEfNwEeOBUOWCMS3zQg" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6flBEvNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBXpkPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6flBE_NwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6flBFPNwEeOBUOWCMS3zQg" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6flBFfNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBSKAPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/patient?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6flBFvNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6flBF_NwEeOBUOWCMS3zQg" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6flBGPNwEeOBUOWCMS3zQg" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBXpkPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6floEPNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6floEfNwEeOBUOWCMS3zQg" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6floEvNwEeOBUOWCMS3zQg" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBSKAPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/patient?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6floE_NwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CBOfoPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6floFPNwEeOBUOWCMS3zQg" points="[-1323, 0, 6852, 1957]$[-3969, 0, 4233, 1957]$[-3969, -2276, 4233, -292]$[-7726, -2276, 449, -292]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6frHoPNwEeOBUOWCMS3zQg" source="_6fdFMPNwEeOBUOWCMS3zQg" target="_6fgIgPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHofNwEeOBUOWCMS3zQg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6frHovNwEeOBUOWCMS3zQg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6frHo_NwEeOBUOWCMS3zQg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6frHpPNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHpfNwEeOBUOWCMS3zQg" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6frHpvNwEeOBUOWCMS3zQg" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_df2_APEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6frHp_NwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHqPNwEeOBUOWCMS3zQg" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6frHqfNwEeOBUOWCMS3zQg" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_df2_APEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6frHqvNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHq_NwEeOBUOWCMS3zQg" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6frHrPNwEeOBUOWCMS3zQg" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_dfyGgPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6frHrfNwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHrvNwEeOBUOWCMS3zQg" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6frHr_NwEeOBUOWCMS3zQg" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_dfyGgPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6frHsPNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHsfNwEeOBUOWCMS3zQg" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6frHsvNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_df2_APEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6frHs_NwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHtPNwEeOBUOWCMS3zQg" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6frHtfNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_dfyGgPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6frHtvNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHt_NwEeOBUOWCMS3zQg" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6frHuPNwEeOBUOWCMS3zQg" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_df2_APEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6frHufNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6frHuvNwEeOBUOWCMS3zQg" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6frHu_NwEeOBUOWCMS3zQg" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_dfyGgPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6frHvPNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_dfucIPEjEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6frHvfNwEeOBUOWCMS3zQg" points="[449, 132, -7859, -4631]$[2645, 132, -5689, -4631]$[2645, 4736, -5689, -27]$[6985, 4736, -1323, -27]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6fzqgPNwEeOBUOWCMS3zQg" source="_6fh9sPNwEeOBUOWCMS3zQg" target="_6fe6YPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fzqgfNwEeOBUOWCMS3zQg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fzqgvNwEeOBUOWCMS3zQg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fzqg_NwEeOBUOWCMS3zQg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6fzqhPNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fzqhfNwEeOBUOWCMS3zQg" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fzqhvNwEeOBUOWCMS3zQg" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCPOsPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6fzqh_NwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fzqiPNwEeOBUOWCMS3zQg" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fzqifNwEeOBUOWCMS3zQg" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCPOsPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6fzqivNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fzqi_NwEeOBUOWCMS3zQg" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fzqjPNwEeOBUOWCMS3zQg" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCK9QPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/sET%20O2%20%2F%20CO2%20CONCENTRATIONS?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6fzqjfNwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6fzqjvNwEeOBUOWCMS3zQg" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6fzqj_NwEeOBUOWCMS3zQg" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCK9QPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/sET%20O2%20%2F%20CO2%20CONCENTRATIONS?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f0RkPNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f0RkfNwEeOBUOWCMS3zQg" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6f0RkvNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCPOsPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f0Rk_NwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f0RlPNwEeOBUOWCMS3zQg" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6f0RlfNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCK9QPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/sET%20O2%20%2F%20CO2%20CONCENTRATIONS?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f0RlvNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f0Rl_NwEeOBUOWCMS3zQg" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6f0RmPNwEeOBUOWCMS3zQg" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCPOsPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f0RmfNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f0RmvNwEeOBUOWCMS3zQg" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6f0Rm_NwEeOBUOWCMS3zQg" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCK9QPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/sET%20O2%20%2F%20CO2%20CONCENTRATIONS?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f0RnPNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_hCH58PElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6f0RnfNwEeOBUOWCMS3zQg" points="[0, -741, -9631, 5053]$[0, -3281, -9631, 2487]$[4788, -3281, -4842, 2487]$[4788, -5795, -4842, -27]$[8281, -5795, -1323, -27]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6f2t0PNwEeOBUOWCMS3zQg" source="_6fh9sPNwEeOBUOWCMS3zQg" target="_6fb3EPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t0fNwEeOBUOWCMS3zQg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f2t0vNwEeOBUOWCMS3zQg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f2t0_NwEeOBUOWCMS3zQg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6f2t1PNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t1fNwEeOBUOWCMS3zQg" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f2t1vNwEeOBUOWCMS3zQg" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uHAskPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f2t1_NwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t2PNwEeOBUOWCMS3zQg" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f2t2fNwEeOBUOWCMS3zQg" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uHAskPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f2t2vNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t2_NwEeOBUOWCMS3zQg" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f2t3PNwEeOBUOWCMS3zQg" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uG70EPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/eXHALATION%20%2F%20INHALATION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f2t3fNwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t3vNwEeOBUOWCMS3zQg" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f2t3_NwEeOBUOWCMS3zQg" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uG70EPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/eXHALATION%20%2F%20INHALATION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f2t4PNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t4fNwEeOBUOWCMS3zQg" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6f2t4vNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uHAskPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f2t4_NwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t5PNwEeOBUOWCMS3zQg" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6f2t5fNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uG70EPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/eXHALATION%20%2F%20INHALATION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f2t5vNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t5_NwEeOBUOWCMS3zQg" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6f2t6PNwEeOBUOWCMS3zQg" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uHAskPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f2t6fNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f2t6vNwEeOBUOWCMS3zQg" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6f2t6_NwEeOBUOWCMS3zQg" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uG70EPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/eXHALATION%20%2F%20INHALATION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f2t7PNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_uG4wwPElEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6f2t7fNwEeOBUOWCMS3zQg" points="[449, -635, -9023, 2354]$[873, -635, -8599, 2354]$[873, -2752, -8599, 238]$[8228, -2752, -1244, 238]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6f80cPNwEeOBUOWCMS3zQg" source="_6fgIgPNwEeOBUOWCMS3zQg" target="_6fjL0PNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80cfNwEeOBUOWCMS3zQg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f80cvNwEeOBUOWCMS3zQg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f80c_NwEeOBUOWCMS3zQg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6f80dPNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80dfNwEeOBUOWCMS3zQg" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f80dvNwEeOBUOWCMS3zQg" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D8E7YPEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f80d_NwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80ePNwEeOBUOWCMS3zQg" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f80efNwEeOBUOWCMS3zQg" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D8E7YPEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f80evNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80e_NwEeOBUOWCMS3zQg" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f80fPNwEeOBUOWCMS3zQg" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D8Ap8PEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/dATA%20STORAGE?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f80ffNwEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80fvNwEeOBUOWCMS3zQg" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6f80f_NwEeOBUOWCMS3zQg" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D8Ap8PEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/dATA%20STORAGE?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f80gPNwEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80gfNwEeOBUOWCMS3zQg" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6f80gvNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D8E7YPEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f80g_NwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80hPNwEeOBUOWCMS3zQg" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_6f80hfNwEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D8Ap8PEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/dATA%20STORAGE?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f80hvNwEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80h_NwEeOBUOWCMS3zQg" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6f80iPNwEeOBUOWCMS3zQg" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D8E7YPEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f80ifNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6f80ivNwEeOBUOWCMS3zQg" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_6f80i_NwEeOBUOWCMS3zQg" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D8Ap8PEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E/dATA%20STORAGE?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6f80jPNwEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_D79moPEmEeOE4bpqZzhqzg?Auto%20Analysis%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6f80jfNwEeOBUOWCMS3zQg" points="[52, -27, -450, 79]$[449, -106, -27, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_CH6rYPNxEeOBUOWCMS3zQg" source="_6fh9sPNwEeOBUOWCMS3zQg" target="_6fgIgPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_CIYlcPNxEeOBUOWCMS3zQg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_CIZzkPNxEeOBUOWCMS3zQg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_CIbBsPNxEeOBUOWCMS3zQg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CIYlcfNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_CImn4PNxEeOBUOWCMS3zQg" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_CIpEIPNxEeOBUOWCMS3zQg" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CCnUoPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/pCB?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CImn4fNxEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_CIqSQPNxEeOBUOWCMS3zQg" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_CIrgYPNxEeOBUOWCMS3zQg" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CCnUoPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/pCB?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CIqSQfNxEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_CIsugPNxEeOBUOWCMS3zQg" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_CIt8oPNxEeOBUOWCMS3zQg" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CCSkgPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CIsugfNxEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_CIujsPNxEeOBUOWCMS3zQg" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_CIw_8PNxEeOBUOWCMS3zQg" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CCSkgPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CIujsfNxEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_CIxnAPNxEeOBUOWCMS3zQg" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_CIy1IPNxEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CCnUoPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/pCB?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CIxnAfNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_CIzcMPNxEeOBUOWCMS3zQg" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_CI0qUPNxEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CCSkgPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CIzcMfNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_CI1RYPNxEeOBUOWCMS3zQg" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_CI3GkPNxEeOBUOWCMS3zQg" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CCnUoPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/pCB?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CI1RYfNxEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_CI3toPNxEeOBUOWCMS3zQg" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_CI4UsPNxEeOBUOWCMS3zQg" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CCSkgPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CI3tofNxEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_CB_pkPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CH6rYfNxEeOBUOWCMS3zQg" points="[27, -3, -337, 59]$[333, -43, -31, 19]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_YVp44PNxEeOBUOWCMS3zQg" source="_6fh9sPNwEeOBUOWCMS3zQg" target="_6fhWoPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_YVs8MPNxEeOBUOWCMS3zQg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_YVtjQPNxEeOBUOWCMS3zQg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_YVuKUPNxEeOBUOWCMS3zQg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YVs8MfNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_YVv_gPNxEeOBUOWCMS3zQg" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_YVxNoPNxEeOBUOWCMS3zQg" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YVKwsPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sOFTWARE?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YVv_gfNxEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_YVx0sPNxEeOBUOWCMS3zQg" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_YVybwPNxEeOBUOWCMS3zQg" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YVKwsPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sOFTWARE?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YVx0sfNxEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_YVzC0PNxEeOBUOWCMS3zQg" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_YVzp4PNxEeOBUOWCMS3zQg" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YU98YPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sensor?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YVzC0fNxEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_YV0Q8PNxEeOBUOWCMS3zQg" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_YV1fEPNxEeOBUOWCMS3zQg" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YU98YPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sensor?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YV0Q8fNxEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_YV2GIPNxEeOBUOWCMS3zQg" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_YV2tMPNxEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YVKwsPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sOFTWARE?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YV2GIfNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_YV3UQPNxEeOBUOWCMS3zQg" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_YV37UPNxEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YU98YPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sensor?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YV3UQfNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_YV4iYPNxEeOBUOWCMS3zQg" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_YV5JcPNxEeOBUOWCMS3zQg" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YVKwsPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sOFTWARE?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YV4iYfNxEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_YV5JcfNxEeOBUOWCMS3zQg" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_YV6XkPNxEeOBUOWCMS3zQg" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YU98YPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sensor?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YV5wgPNxEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_YUuEwPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YVp44fNxEeOBUOWCMS3zQg" points="[0, 211, -18746, -424]$[0, 2845, -18746, 2210]$[18746, 2845, 0, 2210]$[18746, 846, 0, 211]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gKREsPNxEeOBUOWCMS3zQg" source="_6fgIgPNwEeOBUOWCMS3zQg" target="_6fhWoPNwEeOBUOWCMS3zQg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKS54PNxEeOBUOWCMS3zQg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_gKVWIPNxEeOBUOWCMS3zQg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_gKXLUPNxEeOBUOWCMS3zQg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gKS54fNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKYZcPNxEeOBUOWCMS3zQg" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_gKdR8PNxEeOBUOWCMS3zQg" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJaJEPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gKYZcfNxEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKfHIPNxEeOBUOWCMS3zQg" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_gKhjYPNxEeOBUOWCMS3zQg" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJaJEPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gKfHIfNxEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKiKcPNxEeOBUOWCMS3zQg" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_gKixgPNxEeOBUOWCMS3zQg" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJVQkPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sensor?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gKiKcfNxEeOBUOWCMS3zQg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKjYkPNxEeOBUOWCMS3zQg" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_gKu-wPNxEeOBUOWCMS3zQg" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJVQkPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sensor?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gKjYkfNxEeOBUOWCMS3zQg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKwM4PNxEeOBUOWCMS3zQg" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_gKwz8PNxEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJaJEPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gKwM4fNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKxbAPNxEeOBUOWCMS3zQg" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_gKyCEPNxEeOBUOWCMS3zQg" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJVQkPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sensor?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gKxbAfNxEeOBUOWCMS3zQg" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKyCEfNxEeOBUOWCMS3zQg" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_gKzQMPNxEeOBUOWCMS3zQg" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJaJEPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/mONITERING%20PATIENTS%20CONDITION?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gKypIPNxEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gKzQMfNxEeOBUOWCMS3zQg" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_gK0eUPNxEeOBUOWCMS3zQg" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJVQkPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E/sensor?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gKzQMvNxEeOBUOWCMS3zQg" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/BrunoAuto/deep%20anesthesia.emx#_gJRmMPNxEeOBUOWCMS3zQg?Auto%20Analysis%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gKREsfNxEeOBUOWCMS3zQg" points="[104, -5, -253, -3]$[339, -16, -18, -14]"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <eAnnotations xmi:id="__gLCg_NvEeOBUOWCMS3zQg" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="__gLChPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBActivityDiagram" value="1"/>
+    <details xmi:id="__gLChfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBClassDiagram" value="1"/>
+    <details xmi:id="__gLChvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBComponentDiagram" value="1"/>
+    <details xmi:id="__gLCh_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBSequenceDiagram" value="1"/>
+    <details xmi:id="__gLCiPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBUseCaseDiagram" value="1"/>
+    <details xmi:id="__gLCifNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBAction" value="1"/>
+    <details xmi:id="__gLCivNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBActivity1" value="1"/>
+    <details xmi:id="__gLCi_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBActivity2" value="1"/>
+    <details xmi:id="__gLCjPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBActivity3" value="1"/>
+    <details xmi:id="__gLCjfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBClass" value="1"/>
+    <details xmi:id="__gLCjvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBClassTemplateParameter" value="1"/>
+    <details xmi:id="__gLpkPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBCollaboration" value="1"/>
+    <details xmi:id="__gLpkfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBCollaborationUse" value="1"/>
+    <details xmi:id="__gLpkvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBComment1" value="1"/>
+    <details xmi:id="__gLpk_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBComment2" value="1"/>
+    <details xmi:id="__gLplPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBCommunication" value="1"/>
+    <details xmi:id="__gLplfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBComponent" value="1"/>
+    <details xmi:id="__gLplvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBComponentTemplateParameter" value="1"/>
+    <details xmi:id="__gLpl_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBFragment" value="1"/>
+    <details xmi:id="__gLpmPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBFunction" value="1"/>
+    <details xmi:id="__gLpmfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBInterface" value="1"/>
+    <details xmi:id="__gLpmvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBInterfaceTemplateParameter" value="1"/>
+    <details xmi:id="__gLpm_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBLifeLine" value="1"/>
+    <details xmi:id="__gLpnPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBPackage" value="1"/>
+    <details xmi:id="__gLpnfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBPackageTemplateParameter" value="1"/>
+    <details xmi:id="__gLpnvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBRealization" value="1"/>
+    <details xmi:id="__gLpn_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBRelationship1" value="1"/>
+    <details xmi:id="__gLpoPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBRelationship2" value="1"/>
+    <details xmi:id="__gLpofNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBSequence1" value="1"/>
+    <details xmi:id="__gLpovNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBSequence2" value="1"/>
+    <details xmi:id="__gLpo_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBSubsystem" value="1"/>
+    <details xmi:id="__gLppPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBTypes1" value="1"/>
+    <details xmi:id="__gLppfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBTypes2" value="1"/>
+    <details xmi:id="__gLppvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBTypes3" value="1"/>
+    <details xmi:id="__gLpp_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBTypes4" value="1"/>
+    <details xmi:id="__gLpqPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBUseCase1" value="1"/>
+    <details xmi:id="__gLpqfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBUseCase2" value="1"/>
+    <details xmi:id="__gLpqvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.dotnet.modeling.wcf" value="1"/>
+    <details xmi:id="__gLpq_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBPrimitiveTypeTemplateParameter" value="1"/>
+    <details xmi:id="__gLprPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBElementImport1" value="1"/>
+    <details xmi:id="__gLprfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBElementImport2" value="1"/>
+    <details xmi:id="__gLprvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.transform.springmvc.tooling.uireduction.activity" value="1"/>
+    <details xmi:id="__gLpr_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBProfile" value="1"/>
+    <details xmi:id="__gLpsPNvEeOBUOWCMS3zQg" key="updm.standard.activity" value="1"/>
+    <details xmi:id="__gLpsfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBSignal" value="1"/>
+    <details xmi:id="__gLpsvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.EJB3VisualizerActivity" value="1"/>
+    <details xmi:id="__gLps_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBStateMachine1" value="1"/>
+    <details xmi:id="__gLptPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBStateMachine2" value="1"/>
+    <details xmi:id="__gLptfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBTemplate" value="1"/>
+    <details xmi:id="__gLptvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.viz.webservice.capabilty" value="1"/>
+    <details xmi:id="__gLpt_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBSpecificInstanceType1" value="1"/>
+    <details xmi:id="__gLpuPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBSpecificInstanceType2" value="1"/>
+    <details xmi:id="__gLpufNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBObjectDiagram" value="1"/>
+    <details xmi:id="__gLpuvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.transform.uml2.sca.uireduction.activity" value="1"/>
+    <details xmi:id="__gLpu_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBUsage" value="1"/>
+    <details xmi:id="__gLpvPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBInstance" value="1"/>
+    <details xmi:id="__gLpvfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBStereotypedArtifact" value="1"/>
+    <details xmi:id="__gLpvvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.cppModelingActivity" value="1"/>
+    <details xmi:id="__gLpv_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBEvent1" value="1"/>
+    <details xmi:id="__gLpwPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBEvent2" value="1"/>
+    <details xmi:id="__gLpwfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBCommunicationDiagram" value="1"/>
+    <details xmi:id="__gLpwvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.EJB3JPAVisualizerActivity" value="1"/>
+    <details xmi:id="__gLpw_NvEeOBUOWCMS3zQg" key="updm.performance.activity" value="1"/>
+    <details xmi:id="__gLpxPNvEeOBUOWCMS3zQg" key="updm.system.activity" value="1"/>
+    <details xmi:id="__gLpxfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.viz.java.webservice.capability" value="1"/>
+    <details xmi:id="__gLpxvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBStateChartDiagram" value="1"/>
+    <details xmi:id="__gLpx_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.spring.transaction.tooling.uireduction.activity" value="1"/>
+    <details xmi:id="__gLpyPNvEeOBUOWCMS3zQg" key="updm.service.activity" value="1"/>
+    <details xmi:id="__gLpyfNvEeOBUOWCMS3zQg" key="updm.enterprise.activity" value="1"/>
+    <details xmi:id="__gLpyvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.modeling.enterprise.services.uireduction.activity" value="1"/>
+    <details xmi:id="__gLpy_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBDeploymentDiagram" value="1"/>
+    <details xmi:id="__gLpzPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.dotnet.modeling.csharp" value="1"/>
+    <details xmi:id="__gMQoPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBFunctionTemplateParameter" value="1"/>
+    <details xmi:id="__gMQofNvEeOBUOWCMS3zQg" key="com.ibm.xtools.rest.ui.uireduction.activity" value="1"/>
+    <details xmi:id="__gMQovNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBArtifact" value="1"/>
+    <details xmi:id="__gMQo_NvEeOBUOWCMS3zQg" key="updm.project.activity" value="1"/>
+    <details xmi:id="__gMQpPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBInteractionOverview" value="1"/>
+    <details xmi:id="__gMQpfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBStructureDiagram" value="1"/>
+    <details xmi:id="__gMQpvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.transform.springcore.tooling.uireduction.activity" value="1"/>
+    <details xmi:id="__gMQp_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBInteractionOverviewDiagram" value="1"/>
+    <details xmi:id="__gMQqPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBRelationship3" value="1"/>
+    <details xmi:id="__gMQqfNvEeOBUOWCMS3zQg" key="updm.strategic.activity" value="1"/>
+    <details xmi:id="__gMQqvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBDeploymentSpecification" value="1"/>
+    <details xmi:id="__gMQq_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.struts2.profile.tooling.uireduction.activity" value="1"/>
+    <details xmi:id="__gMQrPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBAbstractionRelation" value="1"/>
+    <details xmi:id="__gMQrfNvEeOBUOWCMS3zQg" key="com.ibm.rsa.sipmtk.activity.id" value="1"/>
+    <details xmi:id="__gMQrvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+    <details xmi:id="__gMQr_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.EJBVisualizerActivity" value="1"/>
+    <details xmi:id="__gMQsPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.transform.struts.tooling.activity.id" value="1"/>
+    <details xmi:id="__gMQsfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBStereotypedDeployment1" value="1"/>
+    <details xmi:id="__gMQsvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.modeling.soa.ml.uireduction.activity" value="1"/>
+    <details xmi:id="__gMQs_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.http.activity.id" value="1"/>
+    <details xmi:id="__gMQtPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBDependancy" value="1"/>
+    <details xmi:id="__gMQtfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.jaxrs.ui.uireduction.activity" value="1"/>
+    <details xmi:id="__gMQtvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBFreeFormDiagram" value="1"/>
+    <details xmi:id="__gMQt_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBConstraint" value="1"/>
+    <details xmi:id="__gMQuPNvEeOBUOWCMS3zQg" key="updm.organizational.activity" value="1"/>
+    <details xmi:id="__gMQufNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.dotnet.modeling.visualbasic" value="1"/>
+    <details xmi:id="__gMQuvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBStereotypedClass" value="1"/>
+    <details xmi:id="__gMQu_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBProfileApplication" value="1"/>
+    <details xmi:id="__gMQvPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBStereotypedComponent" value="1"/>
+    <details xmi:id="__gMQvfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBInformationFlow" value="1"/>
+    <details xmi:id="__gMQvvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlalModelingActivity" value="1"/>
+    <details xmi:id="__gMQv_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBCompositeStructure1" value="1"/>
+    <details xmi:id="__gMQwPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBCompositeStructure2" value="1"/>
+    <details xmi:id="__gMQwfNvEeOBUOWCMS3zQg" key="updm.operational.activity" value="1"/>
+    <details xmi:id="__gMQwvNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBDeployment1" value="1"/>
+    <details xmi:id="__gMQw_NvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBDeployment2" value="1"/>
+    <details xmi:id="__gMQxPNvEeOBUOWCMS3zQg" key="com.ibm.xtools.hibernate.ui.uireduction.activity" value="1"/>
+    <details xmi:id="__gMQxfNvEeOBUOWCMS3zQg" key="com.ibm.xtools.activities.umlBBInteraction" value="1"/>
+  </eAnnotations>
+  <packageImport xmi:id="__gMQxvNvEeOBUOWCMS3zQg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <profileApplication xmi:id="__gM3sfNvEeOBUOWCMS3zQg">
+    <eAnnotations xmi:id="__gM3svNvEeOBUOWCMS3zQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="__gM3s_NvEeOBUOWCMS3zQg">
+    <eAnnotations xmi:id="__gM3tPNvEeOBUOWCMS3zQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="__gM3tfNvEeOBUOWCMS3zQg">
+    <eAnnotations xmi:id="__gM3tvNvEeOBUOWCMS3zQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Model>
